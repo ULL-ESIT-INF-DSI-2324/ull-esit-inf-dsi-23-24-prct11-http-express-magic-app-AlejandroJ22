@@ -1,0 +1,17 @@
+[
+  {
+    "id": 123,
+    "name": "Nueva Carta",
+    "mana": 3,
+    "cardColor": "Azul",
+    "cardType": "Criatura",
+    "cardRarity": "Común",
+    "rules": "Reglas de la nueva carta",
+    "powerAndResistance": [
+      2,
+      3
+    ],
+    "loyalty": null,
+    "value": 5
+  }
+]
